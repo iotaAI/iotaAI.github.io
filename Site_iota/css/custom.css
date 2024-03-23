@@ -1,0 +1,35 @@
+/* Custom CSS */
+@font-face {
+    font-family: 'Monospace';
+    src: url('fonts/monospaceBold.ttf') format('truetype');
+  }
+  :root {
+    --body2-font-family: 'Monospace', monospace;
+    --heading2-font-family: 'MonospaceBold', monospace;
+  }
+
+
+body {
+    background-color: black; /* Set the background color of the entire page to black */
+}
+
+.video-wrap { background-color: transparent;}
+
+.custom-video { transition: opacity 2s ease; }
+
+/* Initially hide the Earth video */
+#earth-video {
+    opacity: 0;
+    transition: opacity 1s ease; /* Smooth transition for opacity change */
+}
+
+/* CSS for blinking caret */
+.blinking-caret {
+    color: white; /* Color of the caret */
+    animation: caret-blink 1s step-end infinite; /* Blinking animation */
+}
+
+@keyframes caret-blink {
+    0%, 100% { opacity: 0; }
+    50% { opacity: 1; }
+}
