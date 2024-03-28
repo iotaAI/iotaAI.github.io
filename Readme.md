@@ -1,4 +1,4 @@
-# **[Welcome to Iota Labs.](https://iotaai.github.io)**
+# ![](small_logo.jpg) **[Welcome to Iota Labs.](https://iotaai.github.io)**
 
 - ### **Who are we?**
 **Hey! Nice to meet you, I am Harshit and this is my... umm no wait, our Iota Labs.
