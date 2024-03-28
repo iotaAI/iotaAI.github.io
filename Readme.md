@@ -17,7 +17,7 @@ I hope we do fine! 頑張れましょう！**
 ## **Our Current Projects.**
 - SyncOS
 - Vision
-- Visual
+- GRE
 - i and i#
 - BOCS
 
