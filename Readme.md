@@ -1,4 +1,4 @@
-# **[Welcome to Iota Labs.](https://iota.github.io)**
+# **[Welcome to Iota Labs.](https://iotaai.github.io)**
 
 **Hey! Nice to meet you, I am Harshit and this is my... umm no wait, our Iota Labs.
 Iota Labs is a software research and development startup.
